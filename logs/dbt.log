@@ -1,0 +1,28 @@
+
+
+============================== 2023-01-19 02:15:20.847119 | 8029ae20-d387-42e7-84df-5952269b062d ==============================
+[0m02:15:20.847119 [info ] [MainThread]: Running with dbt=1.5.0-a1
+[0m02:15:20.850197 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\diego\\.dbt', 'send_anonymous_usage_stats': True, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'project_name': 'dbt_casa_andina', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m02:15:20.850197 [debug] [MainThread]: Tracking: tracking
+[0m02:15:20.873128 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023563D57590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023563D75290>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023563D54950>]}
+[0m02:15:20.874127 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\diego\.dbt
+[0m02:15:20.876524 [debug] [MainThread]: Starter project path: C:\Users\diego\OneDrive\Documentos\CICLO VIII\INTELIGENCIA DE NEGOCIOS\FIVETRAN_DBT_TRANSFORMATION\dbt-env\Lib\site-packages\dbt\include\starter_project
+[0m02:24:04.206687 [info ] [MainThread]: Profile dbt_casa_andina written to C:\Users\diego\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m02:24:04.208689 [info ] [MainThread]: 
+Your new dbt project "dbt_casa_andina" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m02:24:04.210687 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023564000BD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002356669A450>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002356669A690>]}
+[0m02:24:04.210687 [debug] [MainThread]: Flushing usage events

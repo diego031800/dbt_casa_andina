@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "casa-andina-374820",
+  "private_key_id": "ef7732887ddbd47af889d4e61aec73a371c69482",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDLs3MunzOgxggj\nCysGLCF9eGosB9hfWpl6XN1CJYeljDbU+Xe+11YboPhKrDRXXWIuSm6XGrQaiLhc\nSX14CU+PlBnphsLQpJIASuZ9r5N0T03WxHXVqIRwjHXrk9Zy+CEzK3//s+YMdYKz\nQTO7xkgbkG6RasouBIkoEUEJp97oKVj5zVwVdXQ8JY3w2I3H2DUvrB6TIINYhEX0\nu6lxJuzZPqGrDL4qgy/+1v77UK3HM9S+zaUPlwzmFQzDZTlRnkibz2T2s4UdSxat\nZtzqbm5zr+OacViVBXggyMDeqEu68h04KQfcjlXaDKHIug153Wftua88K9mzCNLx\nCiD2aC/NAgMBAAECggEAErWvUStvPwehbLKUZ5M7Gj6qpdOspIl6SlpoOjCfRm3c\nBXDKdl1p+8yrsZQilJmvsGfGw5tAyqUfJd7cJt/YDmyAesoVb7uF63/1rrqnNQop\nsJ3H4vGBBKNqG1KvYkz3I6+NqKtZ6HAMqrFE8qzSJ7H67eFco6BoBqWbDyt7lmA3\nuwEx1YGLoXQ0K3psROxIaaf5EDmIUqeTH/BdKqFuVBhvCqMqA6BZBFWbyuFXGnKx\njtzYwwDP/YzCEnJ9vDaOwnyJPSK45JZa4bru/vjtoRgHvwCxV2pg9X50WCRuLYmL\nUIXmLqkzIpt29ZbfuL3Z+lVU/Xe09Nkeg2lVj6lrEwKBgQD6VI/Mx0TDb8nPTGVI\nB/YUsqm39rQKPlqSdaP6XqCZH6ueZFWYEk4smZPzxgdEPejdwY0gjo9cxMr/UcWl\nrO//IF/dQCUJ/Irzi0j+OS+zVJ/Zij2G8z1Ws3B3CrClikV5/Wdl+iUTKivCT3A5\nstz0ebjwQFo+8K4X2Cb29sHWKwKBgQDQUIboLm0z6dvgrb0iRB+Q9RfjvhooP2ah\n7n8LdzTod48YJ5jcswmrsbORk8eCgm7hO8tNzCy1lFxVpf6T2OSunOoLhdIUJ0Si\nzM/9nVLdJKX66/iFAymccjJhk3YYCkhyZ2xliLPSUFWBH0NDv/XPPjD1pCjFEpo1\n4CO+or9N5wKBgQCTdmjXSrNZJWsOcIRhMD9n5e9QbUWVmzGjgSU9gay9RwjD33sE\ngBQI9ddQDOGO86FPsIrAGPqevVaPnM3/UKZ39cxC+1xWS6xW10ACchGFZF5dua+Q\n5YzGnCGuHl/8xD01JW9ZhUd9yKPKbR1A//plEac978q5tPH5Hd2mManxzQKBgQC8\nL0LwFKDKOQVNHyaxAeGSThdawa1Xlo7c0lsqvHGrX/aA16ScG5Es7cdOR7YADFym\nVCIBEeWB05jmNqKYZWOQ6mf0KNvzINY8S9HJRopJBIZ8+xby8jxw/CjPRSt15DQ2\nRYAC6U+pOrFDiD53wb4JjiEkhzvdbESrTuR7nwI7GQKBgQCX0pAo/9i58igvzCvu\npx3YC4NvdS7e6KRepltL8AbCi6IztfLsS2ZNMAoKqr2HztOE9mcczrJt5EsylqN1\nU4bjlSBr/M5cl5Fx+quUQgWXx3vcEToEiu45tTShvABlPRx5e3YnbDgENuj0qHn3\nf1SRJ8k1QjtoQ9iQrP31T2/G7A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-bigquery-demo@casa-andina-374820.iam.gserviceaccount.com",
+  "client_id": "107885191485786251999",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-bigquery-demo%40casa-andina-374820.iam.gserviceaccount.com"
+}
